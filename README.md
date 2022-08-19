@@ -1,4 +1,4 @@
-# Whatsapp-cli - A command line application to send Whatsapp messages
+# Whatsapp-cli - Send messages on the command line
 
 This application let's you send Whatsapp using the unofficial Whatsapp Web API.
 
