@@ -21,7 +21,7 @@ THE SOFTWARE.
 */
 package main
 
-import "whatsapp-cli/cmd"
+import "whatscli/cmd"
 
 func main() {
 	cmd.Execute()
